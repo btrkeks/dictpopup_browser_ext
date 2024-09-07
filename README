@@ -1,3 +1,4 @@
+Allows calling [dictpopup](https://github.com/Ajatt-Tools/dictpopup) by hovering over a character and pressing `Shift` (exactly like Yomichan).
 
 ## Installation instructions
 1) Go to plugins, enable developer options and load the `extension` folder as an unpacked extension
