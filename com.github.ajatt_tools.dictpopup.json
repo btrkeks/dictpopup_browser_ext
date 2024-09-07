@@ -1,1 +1,9 @@
-/home/daniel/.config/chromium/NativeMessagingHosts/com.github.ajatt_tools.dictpopup.json
+{
+  "name": "com.github.ajatt_tools.dictpopup",
+  "description": "Japanese dictionary native messaging host",
+  "path": "/path/to/dictpopup_launcher.py",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://ooedbjeehajedojdgnapfnnhgaoohnfi/"
+  ]
+}
