@@ -4,6 +4,6 @@
   "path": "/path/to/dictpopup_launcher.py",
   "type": "stdio",
   "allowed_origins": [
-    "chrome-extension://ooedbjeehajedojdgnapfnnhgaoohnfi/"
+    "chrome-extension://extension-id/"
   ]
 }
